@@ -1,7 +1,7 @@
 # lab02
 ## Task 1
-##Задание №1 
-Создайте пустой репозиторий на сервисе github.com (или gitlab.com, или bitbucket.com).
+###Задание №1 
+###Создайте пустой репозиторий на сервисе github.com (или gitlab.com, или bitbucket.com).
 ```
 https://github.com/Frodelian/lab02
 ```
